@@ -1,4 +1,3 @@
-x = 10
-
-print("Analysis")
-print("ok")
+import os,sys  
+x = 10  
+print("hi")
